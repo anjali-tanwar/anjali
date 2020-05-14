@@ -1,71 +1,65 @@
 let resumeData = {
   "imagebaseurl": "https://lakshay.dev/",
-  "name": "Lakshay Verma",
-  "role": "Software Engineer",
-  "linkedinId": "https://www.linkedin.com/in/lakshayverma/",
+  "name": "Anjlai Tanwar",
+  "role": "Quality Assurance",
+  "linkedinId": "https://www.linkedin.com/in/anjali-tanwar-304b86160/",
   "skypeid": "lk7253",
-  "roleDescription": "I like to work with database designs and backend. Also tweaking designs of images, websites is a hobby when not watching movies or playing games.",
-  "socialLinks": [
+  "roleDescription": "Being a Software Tester I am responsible for designing test scenarios for software usability, running those tests, and preparing reports on the effectiveness and defects to the production team",
+  "socialLinks" : [
     {
       "id": 1,
       "name": "linkedin",
-      "url": "https://www.linkedin.com/in/lakshayverma/",
+      "url": "https://www.linkedin.com/in/anjali-tanwar-304b86160",
       "className": "fa fa-linkedin"
     },
     {
       "id": 2,
       "name": "github",
-      "url": "http://github.com/lakshayverma",
+      "url": "https://github.com/Anjali029",
       "className": "fa fa-github"
     },
     {
       "id": 3,
       "name": "twitter",
-      "url": "http://twitter.com/lakshay__verma",
+      "url": "https://twitter.com/Anjalitanwar29",
       "className": "fa fa-twitter"
     },
     {
       "id": 4,
       "name": "instagram",
-      "url": "http://instagram.com/lakshay__verma",
+      "url": "https://www.instagram.com/tanwaranjali29/?hl=en",
       "className": "fa fa-instagram"
     },
-    {
-      "id": 5,
-      "name": "blog",
-      "url": "http://blog.lakshay.dev",
-      "className": "fa fa-edit"
-    }
   ],
   "aboutme": "I am a developer by profession. Who like to see things through and loves to code. Watching anime, netflix and movies is a part time hobby apart from going out in the wild.",
   "address": "India",
-  "website": "https://lakshay.dev",
+  //"website": "https://lakshay.dev",
   "education": [
     {
       "id": 4,
-      "UniversityName": "I.G.N.O.U.",
-      "specialization": "Masters in Computer Application",
+      "CollegeName": "A.K.M.V",
+      "specialization": "Bachelors in Computer Science",
       "MonthOfPassing": "Dec",
-      "YearOfPassing": "2017",
-      "Achievements": "Unity Game Development"
+      "YearOfPassing": "2015",
+      //"Achievements": "Unity Game Development"
     },
     {
-      "id": 3,
-      "UniversityName": "G.N.D.U.",
-      "specialization": "Bachelors in Computer Application",
-      "MonthOfPassing": "Jul",
-      "YearOfPassing": "2014",
-      "Achievements": "Mobile Development"
+      //"id": 3,
+     // "UniversityName": "G.N.D.U.",
+      //"specialization": "Bachelors in Computer Application",
+      //"MonthOfPassing": "Jul",
+      //"YearOfPassing": "2014",
+      //"Achievements": "Mobile Development"
     }
   ],
   "work": [
     {
       "id": 4,
       "CompanyName": "Walkwel Technology",
-      "specialization": "Web Development and Databases",
+      "specialization": "Manual & Automatd Testing ",
       "MonthOfLeaving": "-",
       "YearOfLeaving": "Present",
-      "Achievements": "PHP, Laravel, AWS, Click Funnels, Infusionsoft"
+      "Achievements": " java, Html, CSS, Selenium, Jmeter"
     },
     {
       "id": 3,
@@ -96,39 +90,39 @@ let resumeData = {
   "skills": [
     {
       "id": 1,
-      "skillname": "Laravel",
+      "skillname": "Java",
       "percent": "80",
       "level": "intermediate"
     },
     {
       "id": 2,
-      "skillname": "Wordpress",
+      "skillname": "HTML",
       "percent": "70",
       "level": "intermediate"
     },
     {
       "id": 3,
-      "skillname": "Android",
+      "skillname": "CSS",
       "percent": "55",
-      "level": "moderate"
+      "level": "intermediate"
     },
     {
       "id": 4,
-      "skillname": "Java",
+      "skillname": "Jmeter",
       "percent": "60",
       "level": "moderate"
     },
     {
       "id": 5,
-      "skillname": "JavaScript",
+      "skillname": "Selenium",
       "percent": "60",
-      "level": "moderate"
+      "level": "intermediate"
     },
     {
-      "id": 6,
-      "skillname": "Adobe Photoshop",
-      "percent": "60",
-      "level": "moderate"
+      // "id": 6,
+      // "skillname": "Adobe Photoshop",
+      // "percent": "60",
+      // "level": "moderate"
     }
   ],
   "portfolio": [
